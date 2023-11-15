@@ -1,0 +1,15 @@
+{
+  "playerStart": {"x": 32, "y": 150},
+  "platData": {"x": -200, "y": -200},
+  "sueloData": [],
+  "piedraData": [],
+  "rocaData": [],
+  "plat2Data": [],
+  "questionsData": {"x": -100, "y": -100},
+  "packageData": [
+    {"x": 400, "y": 90},
+    {"x": 600, "y": 90},
+    {"x": 800, "y": 90}
+    
+  ]
+}

@@ -1,0 +1,15 @@
+canvas {
+    margin: auto;
+    margin-top: 2em;
+}
+
+
+/*FUENTES*/
+@font-face{
+    font-family: "Arcades";
+    src:url('../assets/fonts/Arcades.ttf')
+}
+@font-face{
+    font-family: "PixelatedPusab";
+    src:url('../assets/fonts/PixelatedPusab.ttf')
+}
